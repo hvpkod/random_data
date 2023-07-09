@@ -1,0 +1,1832 @@
+[
+    {
+        "Datum":"2023-01-01",
+        "Datum_text":"1 januari",
+        "Namnsdag":"(ingen namnsdag) Nyårsdagen"
+    },
+    {
+        "Datum":"2023-01-02",
+        "Datum_text":"2 januari",
+        "Namnsdag":"Svea"
+    },
+    {
+        "Datum":"2023-01-03",
+        "Datum_text":"3 januari",
+        "Namnsdag":"Alfred, Alfrida"
+    },
+    {
+        "Datum":"2023-01-04",
+        "Datum_text":"4 januari",
+        "Namnsdag":"Rut"
+    },
+    {
+        "Datum":"2023-01-05",
+        "Datum_text":"5 januari",
+        "Namnsdag":"Hanna, Hannele"
+    },
+    {
+        "Datum":"2023-01-06",
+        "Datum_text":"6 januari",
+        "Namnsdag":"Kasper, Melker, Baltsar"
+    },
+    {
+        "Datum":"2023-01-07",
+        "Datum_text":"7 januari",
+        "Namnsdag":"August, Augusta"
+    },
+    {
+        "Datum":"2023-01-08",
+        "Datum_text":"8 januari",
+        "Namnsdag":"Erland"
+    },
+    {
+        "Datum":"2023-01-09",
+        "Datum_text":"9 januari",
+        "Namnsdag":"Gunnar, Gunder"
+    },
+    {
+        "Datum":"2023-01-10",
+        "Datum_text":"10 januari",
+        "Namnsdag":"Sigurd, Sigbritt"
+    },
+    {
+        "Datum":"2023-01-11",
+        "Datum_text":"11 januari",
+        "Namnsdag":"Jan, Jannike"
+    },
+    {
+        "Datum":"2023-01-12",
+        "Datum_text":"12 januari",
+        "Namnsdag":"Frideborg, Fridolf"
+    },
+    {
+        "Datum":"2023-01-13",
+        "Datum_text":"13 januari",
+        "Namnsdag":"Knut"
+    },
+    {
+        "Datum":"2023-01-14",
+        "Datum_text":"14 januari",
+        "Namnsdag":"Felix, Felicia"
+    },
+    {
+        "Datum":"2023-01-15",
+        "Datum_text":"15 januari",
+        "Namnsdag":"Laura, Lorentz"
+    },
+    {
+        "Datum":"2023-01-16",
+        "Datum_text":"16 januari",
+        "Namnsdag":"Hjalmar, Helmer"
+    },
+    {
+        "Datum":"2023-01-17",
+        "Datum_text":"17 januari",
+        "Namnsdag":"Anton, Tony"
+    },
+    {
+        "Datum":"2023-01-18",
+        "Datum_text":"18 januari",
+        "Namnsdag":"Hilda, Hildur"
+    },
+    {
+        "Datum":"2023-01-19",
+        "Datum_text":"19 januari",
+        "Namnsdag":"Henrik, Henry"
+    },
+    {
+        "Datum":"2023-01-20",
+        "Datum_text":"20 januari",
+        "Namnsdag":"Fabian, Sebastian"
+    },
+    {
+        "Datum":"2023-01-21",
+        "Datum_text":"21 januari",
+        "Namnsdag":"Agnes, Agneta"
+    },
+    {
+        "Datum":"2023-01-22",
+        "Datum_text":"22 januari",
+        "Namnsdag":"Vincent, Viktor"
+    },
+    {
+        "Datum":"2023-01-23",
+        "Datum_text":"23 januari",
+        "Namnsdag":"Frej, Freja"
+    },
+    {
+        "Datum":"2023-01-24",
+        "Datum_text":"24 januari",
+        "Namnsdag":"Erika"
+    },
+    {
+        "Datum":"2023-01-25",
+        "Datum_text":"25 januari",
+        "Namnsdag":"Paul, Pål"
+    },
+    {
+        "Datum":"2023-01-26",
+        "Datum_text":"26 januari",
+        "Namnsdag":"Bodil, Boel"
+    },
+    {
+        "Datum":"2023-01-27",
+        "Datum_text":"27 januari",
+        "Namnsdag":"Göte, Göta"
+    },
+    {
+        "Datum":"2023-01-28",
+        "Datum_text":"28 januari",
+        "Namnsdag":"Karl, Karla"
+    },
+    {
+        "Datum":"2023-01-29",
+        "Datum_text":"29 januari",
+        "Namnsdag":"Diana"
+    },
+    {
+        "Datum":"2023-01-30",
+        "Datum_text":"30 januari",
+        "Namnsdag":"Gunilla, Gunhild"
+    },
+    {
+        "Datum":"2023-01-31",
+        "Datum_text":"31 januari",
+        "Namnsdag":"Ivar, Joar"
+    },
+    {
+        "Datum":"2023-02-01",
+        "Datum_text":"1 februari",
+        "Namnsdag":"Max, Maximilian"
+    },
+    {
+        "Datum":"2023-02-02",
+        "Datum_text":"2 februari",
+        "Namnsdag":"(ingen namnsdag) Kyndelsmässodagen"
+    },
+    {
+        "Datum":"2023-02-03",
+        "Datum_text":"3 februari",
+        "Namnsdag":"Disa, Hjördis"
+    },
+    {
+        "Datum":"2023-02-04",
+        "Datum_text":"4 februari",
+        "Namnsdag":"Ansgar, Anselm"
+    },
+    {
+        "Datum":"2023-02-05",
+        "Datum_text":"5 februari",
+        "Namnsdag":"Agata, Agda"
+    },
+    {
+        "Datum":"2023-02-06",
+        "Datum_text":"6 februari",
+        "Namnsdag":"Dorotea, Doris"
+    },
+    {
+        "Datum":"2023-02-07",
+        "Datum_text":"7 februari",
+        "Namnsdag":"Rikard, Dick"
+    },
+    {
+        "Datum":"2023-02-08",
+        "Datum_text":"8 februari",
+        "Namnsdag":"Berta, Bert"
+    },
+    {
+        "Datum":"2023-02-09",
+        "Datum_text":"9 februari",
+        "Namnsdag":"Fanny, Franciska"
+    },
+    {
+        "Datum":"2023-02-10",
+        "Datum_text":"10 februari",
+        "Namnsdag":"Iris"
+    },
+    {
+        "Datum":"2023-02-11",
+        "Datum_text":"11 februari",
+        "Namnsdag":"Yngve, Inge"
+    },
+    {
+        "Datum":"2023-02-12",
+        "Datum_text":"12 februari",
+        "Namnsdag":"Evelina, Evy"
+    },
+    {
+        "Datum":"2023-02-13",
+        "Datum_text":"13 februari",
+        "Namnsdag":"Agne, Ove"
+    },
+    {
+        "Datum":"2023-02-14",
+        "Datum_text":"14 februari",
+        "Namnsdag":"Valentin"
+    },
+    {
+        "Datum":"2023-02-15",
+        "Datum_text":"15 februari",
+        "Namnsdag":"Sigfrid"
+    },
+    {
+        "Datum":"2023-02-16",
+        "Datum_text":"16 februari",
+        "Namnsdag":"Julia, Julius"
+    },
+    {
+        "Datum":"2023-02-17",
+        "Datum_text":"17 februari",
+        "Namnsdag":"Alexandra, Sandra"
+    },
+    {
+        "Datum":"2023-02-18",
+        "Datum_text":"18 februari",
+        "Namnsdag":"Frida, Fritiof"
+    },
+    {
+        "Datum":"2023-02-19",
+        "Datum_text":"19 februari",
+        "Namnsdag":"Gabriella, Ella"
+    },
+    {
+        "Datum":"2023-02-20",
+        "Datum_text":"20 februari",
+        "Namnsdag":"Vivianne"
+    },
+    {
+        "Datum":"2023-02-21",
+        "Datum_text":"21 februari",
+        "Namnsdag":"Hilding"
+    },
+    {
+        "Datum":"2023-02-22",
+        "Datum_text":"22 februari",
+        "Namnsdag":"Pia"
+    },
+    {
+        "Datum":"2023-02-23",
+        "Datum_text":"23 februari",
+        "Namnsdag":"Torsten, Torun"
+    },
+    {
+        "Datum":"2023-02-24",
+        "Datum_text":"24 februari",
+        "Namnsdag":"Mattias, Mats"
+    },
+    {
+        "Datum":"2023-02-25",
+        "Datum_text":"25 februari",
+        "Namnsdag":"Sigvard, Sivert"
+    },
+    {
+        "Datum":"2023-02-26",
+        "Datum_text":"26 februari",
+        "Namnsdag":"Torgny, Torkel"
+    },
+    {
+        "Datum":"2023-02-27",
+        "Datum_text":"27 februari",
+        "Namnsdag":"Lage"
+    },
+    {
+        "Datum":"2023-02-28",
+        "Datum_text":"28 februari",
+        "Namnsdag":"Maria, Maja"
+    },
+    {
+        "Datum":"2023-02-29",
+        "Datum_text":"29 februari",
+        "Namnsdag":"(ingen namnsdag) Skottdagen"
+    },
+    {
+        "Datum":"2023-03-01",
+        "Datum_text":"1 mars",
+        "Namnsdag":"Albin, Elvira"
+    },
+    {
+        "Datum":"2023-03-02",
+        "Datum_text":"2 mars",
+        "Namnsdag":"Ernst, Erna"
+    },
+    {
+        "Datum":"2023-03-03",
+        "Datum_text":"3 mars",
+        "Namnsdag":"Gunborg, Gunvor"
+    },
+    {
+        "Datum":"2023-03-04",
+        "Datum_text":"4 mars",
+        "Namnsdag":"Adrian, Adriana"
+    },
+    {
+        "Datum":"2023-03-05",
+        "Datum_text":"5 mars",
+        "Namnsdag":"Tora, Tove"
+    },
+    {
+        "Datum":"2023-03-06",
+        "Datum_text":"6 mars",
+        "Namnsdag":"Ebba, Ebbe"
+    },
+    {
+        "Datum":"2023-03-07",
+        "Datum_text":"7 mars",
+        "Namnsdag":"Camilla"
+    },
+    {
+        "Datum":"2023-03-08",
+        "Datum_text":"8 mars",
+        "Namnsdag":"Siv, Saga"
+    },
+    {
+        "Datum":"2023-03-09",
+        "Datum_text":"9 mars",
+        "Namnsdag":"Torbjörn, Torleif"
+    },
+    {
+        "Datum":"2023-03-10",
+        "Datum_text":"10 mars",
+        "Namnsdag":"Edla, Ada"
+    },
+    {
+        "Datum":"2023-03-11",
+        "Datum_text":"11 mars",
+        "Namnsdag":"Edvin, Egon"
+    },
+    {
+        "Datum":"2023-03-12",
+        "Datum_text":"12 mars",
+        "Namnsdag":"Viktoria, Regina"
+    },
+    {
+        "Datum":"2023-03-13",
+        "Datum_text":"13 mars",
+        "Namnsdag":"Greger"
+    },
+    {
+        "Datum":"2023-03-14",
+        "Datum_text":"14 mars",
+        "Namnsdag":"Matilda, Maud"
+    },
+    {
+        "Datum":"2023-03-15",
+        "Datum_text":"15 mars",
+        "Namnsdag":"Kristoffer, Christel"
+    },
+    {
+        "Datum":"2023-03-16",
+        "Datum_text":"16 mars",
+        "Namnsdag":"Herbert, Gilbert"
+    },
+    {
+        "Datum":"2023-03-17",
+        "Datum_text":"17 mars",
+        "Namnsdag":"Gertrud"
+    },
+    {
+        "Datum":"2023-03-18",
+        "Datum_text":"18 mars",
+        "Namnsdag":"Edvard, Edmund"
+    },
+    {
+        "Datum":"2023-03-19",
+        "Datum_text":"19 mars",
+        "Namnsdag":"Josef, Josefina"
+    },
+    {
+        "Datum":"2023-03-20",
+        "Datum_text":"20 mars",
+        "Namnsdag":"Joakim, Kim"
+    },
+    {
+        "Datum":"2023-03-21",
+        "Datum_text":"21 mars",
+        "Namnsdag":"Bengt"
+    },
+    {
+        "Datum":"2023-03-22",
+        "Datum_text":"22 mars",
+        "Namnsdag":"Kennet, Kent"
+    },
+    {
+        "Datum":"2023-03-23",
+        "Datum_text":"23 mars",
+        "Namnsdag":"Gerda, Gerd"
+    },
+    {
+        "Datum":"2023-03-24",
+        "Datum_text":"24 mars",
+        "Namnsdag":"Gabriel, Rafael"
+    },
+    {
+        "Datum":"2023-03-25",
+        "Datum_text":"25 mars",
+        "Namnsdag":"(ingen namnsdag) Marie bebådelsedag"
+    },
+    {
+        "Datum":"2023-03-26",
+        "Datum_text":"26 mars",
+        "Namnsdag":"Emanuel"
+    },
+    {
+        "Datum":"2023-03-27",
+        "Datum_text":"27 mars",
+        "Namnsdag":"Rudolf, Ralf"
+    },
+    {
+        "Datum":"2023-03-28",
+        "Datum_text":"28 mars",
+        "Namnsdag":"Malkolm, Morgan"
+    },
+    {
+        "Datum":"2023-03-29",
+        "Datum_text":"29 mars",
+        "Namnsdag":"Jonas, Jens"
+    },
+    {
+        "Datum":"2023-03-30",
+        "Datum_text":"30 mars",
+        "Namnsdag":"Holger, Holmfrid"
+    },
+    {
+        "Datum":"2023-03-31",
+        "Datum_text":"31 mars",
+        "Namnsdag":"Ester, Noa"
+    },
+    {
+        "Datum":"2023-04-01",
+        "Datum_text":"1 april",
+        "Namnsdag":"Harald, Hervor"
+    },
+    {
+        "Datum":"2023-04-02",
+        "Datum_text":"2 april",
+        "Namnsdag":"Gudmund, Ingemund"
+    },
+    {
+        "Datum":"2023-04-03",
+        "Datum_text":"3 april",
+        "Namnsdag":"Ferdinand, Nanna"
+    },
+    {
+        "Datum":"2023-04-04",
+        "Datum_text":"4 april",
+        "Namnsdag":"Marianne, Marlene"
+    },
+    {
+        "Datum":"2023-04-05",
+        "Datum_text":"5 april",
+        "Namnsdag":"Irene, Irja"
+    },
+    {
+        "Datum":"2023-04-06",
+        "Datum_text":"6 april",
+        "Namnsdag":"Vilhelm, William"
+    },
+    {
+        "Datum":"2023-04-07",
+        "Datum_text":"7 april",
+        "Namnsdag":"Irma, Irmelin"
+    },
+    {
+        "Datum":"2023-04-08",
+        "Datum_text":"8 april",
+        "Namnsdag":"Nadja, Tanja"
+    },
+    {
+        "Datum":"2023-04-09",
+        "Datum_text":"9 april",
+        "Namnsdag":"Otto, Ottilia"
+    },
+    {
+        "Datum":"2023-04-10",
+        "Datum_text":"10 april",
+        "Namnsdag":"Ingvar, Ingvor"
+    },
+    {
+        "Datum":"2023-04-11",
+        "Datum_text":"11 april",
+        "Namnsdag":"Ulf, Ylva"
+    },
+    {
+        "Datum":"2023-04-12",
+        "Datum_text":"12 april",
+        "Namnsdag":"Liv"
+    },
+    {
+        "Datum":"2023-04-13",
+        "Datum_text":"13 april",
+        "Namnsdag":"Artur, Douglas"
+    },
+    {
+        "Datum":"2023-04-14",
+        "Datum_text":"14 april",
+        "Namnsdag":"Tiburtius"
+    },
+    {
+        "Datum":"2023-04-15",
+        "Datum_text":"15 april",
+        "Namnsdag":"Olivia, Oliver"
+    },
+    {
+        "Datum":"2023-04-16",
+        "Datum_text":"16 april",
+        "Namnsdag":"Patrik, Patricia"
+    },
+    {
+        "Datum":"2023-04-17",
+        "Datum_text":"17 april",
+        "Namnsdag":"Elias, Elis"
+    },
+    {
+        "Datum":"2023-04-18",
+        "Datum_text":"18 april",
+        "Namnsdag":"Valdemar, Volmar"
+    },
+    {
+        "Datum":"2023-04-19",
+        "Datum_text":"19 april",
+        "Namnsdag":"Olaus, Ola"
+    },
+    {
+        "Datum":"2023-04-20",
+        "Datum_text":"20 april",
+        "Namnsdag":"Amalia, Amelie"
+    },
+    {
+        "Datum":"2023-04-21",
+        "Datum_text":"21 april",
+        "Namnsdag":"Anneli, Annika"
+    },
+    {
+        "Datum":"2023-04-22",
+        "Datum_text":"22 april",
+        "Namnsdag":"Allan, Glenn"
+    },
+    {
+        "Datum":"2023-04-23",
+        "Datum_text":"23 april",
+        "Namnsdag":"Georg, Göran"
+    },
+    {
+        "Datum":"2023-04-24",
+        "Datum_text":"24 april",
+        "Namnsdag":"Vega"
+    },
+    {
+        "Datum":"2023-04-25",
+        "Datum_text":"25 april",
+        "Namnsdag":"Markus"
+    },
+    {
+        "Datum":"2023-04-26",
+        "Datum_text":"26 april",
+        "Namnsdag":"Teresia, Terese"
+    },
+    {
+        "Datum":"2023-04-27",
+        "Datum_text":"27 april",
+        "Namnsdag":"Engelbrekt"
+    },
+    {
+        "Datum":"2023-04-28",
+        "Datum_text":"28 april",
+        "Namnsdag":"Ture, Tyra"
+    },
+    {
+        "Datum":"2023-04-29",
+        "Datum_text":"29 april",
+        "Namnsdag":"Tyko"
+    },
+    {
+        "Datum":"2023-04-30",
+        "Datum_text":"30 april",
+        "Namnsdag":"Mariana, (Valborgsmässoafton)"
+    },
+    {
+        "Datum":"2023-05-01",
+        "Datum_text":"1 maj",
+        "Namnsdag":"Valborg, (Första maj)"
+    },
+    {
+        "Datum":"2023-05-02",
+        "Datum_text":"2 maj",
+        "Namnsdag":"Filip, Filippa"
+    },
+    {
+        "Datum":"2023-05-03",
+        "Datum_text":"3 maj",
+        "Namnsdag":"John, Jane"
+    },
+    {
+        "Datum":"2023-05-04",
+        "Datum_text":"4 maj",
+        "Namnsdag":"Monika, Mona"
+    },
+    {
+        "Datum":"2023-05-05",
+        "Datum_text":"5 maj",
+        "Namnsdag":"Gotthard, Erhard"
+    },
+    {
+        "Datum":"2023-05-06",
+        "Datum_text":"6 maj",
+        "Namnsdag":"Marit, Rita"
+    },
+    {
+        "Datum":"2023-05-07",
+        "Datum_text":"7 maj",
+        "Namnsdag":"Carina, Carita"
+    },
+    {
+        "Datum":"2023-05-08",
+        "Datum_text":"8 maj",
+        "Namnsdag":"Åke"
+    },
+    {
+        "Datum":"2023-05-09",
+        "Datum_text":"9 maj",
+        "Namnsdag":"Reidar, Reidun"
+    },
+    {
+        "Datum":"2023-05-10",
+        "Datum_text":"10 maj",
+        "Namnsdag":"Esbjörn, Styrbjörn"
+    },
+    {
+        "Datum":"2023-05-11",
+        "Datum_text":"11 maj",
+        "Namnsdag":"Märta, Märit"
+    },
+    {
+        "Datum":"2023-05-12",
+        "Datum_text":"12 maj",
+        "Namnsdag":"Charlotta, Lotta"
+    },
+    {
+        "Datum":"2023-05-13",
+        "Datum_text":"13 maj",
+        "Namnsdag":"Linnea, Linn"
+    },
+    {
+        "Datum":"2023-05-14",
+        "Datum_text":"14 maj",
+        "Namnsdag":"Halvard, Halvar"
+    },
+    {
+        "Datum":"2023-05-15",
+        "Datum_text":"15 maj",
+        "Namnsdag":"Sofia, Sonja"
+    },
+    {
+        "Datum":"2023-05-16",
+        "Datum_text":"16 maj",
+        "Namnsdag":"Ronald, Ronny"
+    },
+    {
+        "Datum":"2023-05-17",
+        "Datum_text":"17 maj",
+        "Namnsdag":"Rebecka, Ruben"
+    },
+    {
+        "Datum":"2023-05-18",
+        "Datum_text":"18 maj",
+        "Namnsdag":"Erik"
+    },
+    {
+        "Datum":"2023-05-19",
+        "Datum_text":"19 maj",
+        "Namnsdag":"Maj, Majken"
+    },
+    {
+        "Datum":"2023-05-20",
+        "Datum_text":"20 maj",
+        "Namnsdag":"Karolina, Carola"
+    },
+    {
+        "Datum":"2023-05-21",
+        "Datum_text":"21 maj",
+        "Namnsdag":"Konstantin, Conny"
+    },
+    {
+        "Datum":"2023-05-22",
+        "Datum_text":"22 maj",
+        "Namnsdag":"Hemming, Henning"
+    },
+    {
+        "Datum":"2023-05-23",
+        "Datum_text":"23 maj",
+        "Namnsdag":"Desideria, Desirée"
+    },
+    {
+        "Datum":"2023-05-24",
+        "Datum_text":"24 maj",
+        "Namnsdag":"Ivan, Vanja"
+    },
+    {
+        "Datum":"2023-05-25",
+        "Datum_text":"25 maj",
+        "Namnsdag":"Urban"
+    },
+    {
+        "Datum":"2023-05-26",
+        "Datum_text":"26 maj",
+        "Namnsdag":"Vilhelmina, Vilma"
+    },
+    {
+        "Datum":"2023-05-27",
+        "Datum_text":"27 maj",
+        "Namnsdag":"Beda, Blenda"
+    },
+    {
+        "Datum":"2023-05-28",
+        "Datum_text":"28 maj",
+        "Namnsdag":"Ingeborg, Borghild"
+    },
+    {
+        "Datum":"2023-05-29",
+        "Datum_text":"29 maj",
+        "Namnsdag":"Yvonne, Jeanette"
+    },
+    {
+        "Datum":"2023-05-30",
+        "Datum_text":"30 maj",
+        "Namnsdag":"Vera, Veronika"
+    },
+    {
+        "Datum":"2023-05-31",
+        "Datum_text":"31 maj",
+        "Namnsdag":"Petronella, Pernilla"
+    },
+    {
+        "Datum":"2023-06-01",
+        "Datum_text":"1 juni",
+        "Namnsdag":"Gun, Gunnel"
+    },
+    {
+        "Datum":"2023-06-02",
+        "Datum_text":"2 juni",
+        "Namnsdag":"Rutger, Roger"
+    },
+    {
+        "Datum":"2023-06-03",
+        "Datum_text":"3 juni",
+        "Namnsdag":"Ingemar, Gudmar"
+    },
+    {
+        "Datum":"2023-06-04",
+        "Datum_text":"4 juni",
+        "Namnsdag":"Solbritt, Solveig"
+    },
+    {
+        "Datum":"2023-06-05",
+        "Datum_text":"5 juni",
+        "Namnsdag":"Bo"
+    },
+    {
+        "Datum":"2023-06-06",
+        "Datum_text":"6 juni",
+        "Namnsdag":"Gustav, Gösta"
+    },
+    {
+        "Datum":"2023-06-07",
+        "Datum_text":"7 juni",
+        "Namnsdag":"Robert, Robin"
+    },
+    {
+        "Datum":"2023-06-08",
+        "Datum_text":"8 juni",
+        "Namnsdag":"Eivor, Majvor"
+    },
+    {
+        "Datum":"2023-06-09",
+        "Datum_text":"9 juni",
+        "Namnsdag":"Börje, Birger"
+    },
+    {
+        "Datum":"2023-06-10",
+        "Datum_text":"10 juni",
+        "Namnsdag":"Svante, Boris"
+    },
+    {
+        "Datum":"2023-06-11",
+        "Datum_text":"11 juni",
+        "Namnsdag":"Bertil, Berthold"
+    },
+    {
+        "Datum":"2023-06-12",
+        "Datum_text":"12 juni",
+        "Namnsdag":"Eskil"
+    },
+    {
+        "Datum":"2023-06-13",
+        "Datum_text":"13 juni",
+        "Namnsdag":"Aina, Aino"
+    },
+    {
+        "Datum":"2023-06-14",
+        "Datum_text":"14 juni",
+        "Namnsdag":"Håkan, Hakon"
+    },
+    {
+        "Datum":"2023-06-15",
+        "Datum_text":"15 juni",
+        "Namnsdag":"Margit, Margot"
+    },
+    {
+        "Datum":"2023-06-16",
+        "Datum_text":"16 juni",
+        "Namnsdag":"Axel, Axelina"
+    },
+    {
+        "Datum":"2023-06-17",
+        "Datum_text":"17 juni",
+        "Namnsdag":"Torborg, Torvald"
+    },
+    {
+        "Datum":"2023-06-18",
+        "Datum_text":"18 juni",
+        "Namnsdag":"Björn, Bjarne"
+    },
+    {
+        "Datum":"2023-06-19",
+        "Datum_text":"19 juni",
+        "Namnsdag":"Germund, Görel"
+    },
+    {
+        "Datum":"2023-06-20",
+        "Datum_text":"20 juni",
+        "Namnsdag":"Linda"
+    },
+    {
+        "Datum":"2023-06-21",
+        "Datum_text":"21 juni",
+        "Namnsdag":"Alf, Alvar"
+    },
+    {
+        "Datum":"2023-06-22",
+        "Datum_text":"22 juni",
+        "Namnsdag":"Paulina, Paula"
+    },
+    {
+        "Datum":"2023-06-23",
+        "Datum_text":"23 juni",
+        "Namnsdag":"Adolf, Alice"
+    },
+    {
+        "Datum":"2023-06-24",
+        "Datum_text":"24 juni",
+        "Namnsdag":"(ingen namnsdag) Johannes Döparens dag"
+    },
+    {
+        "Datum":"2023-06-25",
+        "Datum_text":"25 juni",
+        "Namnsdag":"David, Salomon"
+    },
+    {
+        "Datum":"2023-06-26",
+        "Datum_text":"26 juni",
+        "Namnsdag":"Rakel, Lea"
+    },
+    {
+        "Datum":"2023-06-27",
+        "Datum_text":"27 juni",
+        "Namnsdag":"Selma, Fingal"
+    },
+    {
+        "Datum":"2023-06-28",
+        "Datum_text":"28 juni",
+        "Namnsdag":"Leo"
+    },
+    {
+        "Datum":"2023-06-29",
+        "Datum_text":"29 juni",
+        "Namnsdag":"Peter, Petra"
+    },
+    {
+        "Datum":"2023-06-30",
+        "Datum_text":"30 juni",
+        "Namnsdag":"Elof, Leif"
+    },
+    {
+        "Datum":"2023-07-01",
+        "Datum_text":"1 juli",
+        "Namnsdag":"Aron, Mirjam"
+    },
+    {
+        "Datum":"2023-07-02",
+        "Datum_text":"2 juli",
+        "Namnsdag":"Rosa, Rosita"
+    },
+    {
+        "Datum":"2023-07-03",
+        "Datum_text":"3 juli",
+        "Namnsdag":"Aurora"
+    },
+    {
+        "Datum":"2023-07-04",
+        "Datum_text":"4 juli",
+        "Namnsdag":"Ulrika, Ulla"
+    },
+    {
+        "Datum":"2023-07-05",
+        "Datum_text":"5 juli",
+        "Namnsdag":"Laila, Ritva"
+    },
+    {
+        "Datum":"2023-07-06",
+        "Datum_text":"6 juli",
+        "Namnsdag":"Esaias, Jessika"
+    },
+    {
+        "Datum":"2023-07-07",
+        "Datum_text":"7 juli",
+        "Namnsdag":"Klas"
+    },
+    {
+        "Datum":"2023-07-08",
+        "Datum_text":"8 juli",
+        "Namnsdag":"Kjell"
+    },
+    {
+        "Datum":"2023-07-09",
+        "Datum_text":"9 juli",
+        "Namnsdag":"Jörgen, Örjan"
+    },
+    {
+        "Datum":"2023-07-10",
+        "Datum_text":"10 juli",
+        "Namnsdag":"André, Andrea"
+    },
+    {
+        "Datum":"2023-07-11",
+        "Datum_text":"11 juli",
+        "Namnsdag":"Eleonora, Ellinor"
+    },
+    {
+        "Datum":"2023-07-12",
+        "Datum_text":"12 juli",
+        "Namnsdag":"Herman, Hermine"
+    },
+    {
+        "Datum":"2023-07-13",
+        "Datum_text":"13 juli",
+        "Namnsdag":"Joel, Judit"
+    },
+    {
+        "Datum":"2023-07-14",
+        "Datum_text":"14 juli",
+        "Namnsdag":"Folke"
+    },
+    {
+        "Datum":"2023-07-15",
+        "Datum_text":"15 juli",
+        "Namnsdag":"Ragnhild, Ragnvald"
+    },
+    {
+        "Datum":"2023-07-16",
+        "Datum_text":"16 juli",
+        "Namnsdag":"Reinhold, Reine"
+    },
+    {
+        "Datum":"2023-07-17",
+        "Datum_text":"17 juli",
+        "Namnsdag":"Bruno"
+    },
+    {
+        "Datum":"2023-07-18",
+        "Datum_text":"18 juli",
+        "Namnsdag":"Fredrik, Fritz"
+    },
+    {
+        "Datum":"2023-07-19",
+        "Datum_text":"19 juli",
+        "Namnsdag":"Sara"
+    },
+    {
+        "Datum":"2023-07-20",
+        "Datum_text":"20 juli",
+        "Namnsdag":"Margareta, Greta"
+    },
+    {
+        "Datum":"2023-07-21",
+        "Datum_text":"21 juli",
+        "Namnsdag":"Johanna"
+    },
+    {
+        "Datum":"2023-07-22",
+        "Datum_text":"22 juli",
+        "Namnsdag":"Magdalena, Madeleine"
+    },
+    {
+        "Datum":"2023-07-23",
+        "Datum_text":"23 juli",
+        "Namnsdag":"Emma, Emmy"
+    },
+    {
+        "Datum":"2023-07-24",
+        "Datum_text":"24 juli",
+        "Namnsdag":"Kristina, Kerstin"
+    },
+    {
+        "Datum":"2023-07-25",
+        "Datum_text":"25 juli",
+        "Namnsdag":"Jakob"
+    },
+    {
+        "Datum":"2023-07-26",
+        "Datum_text":"26 juli",
+        "Namnsdag":"Jesper, Jasmine"
+    },
+    {
+        "Datum":"2023-07-27",
+        "Datum_text":"27 juli",
+        "Namnsdag":"Marta"
+    },
+    {
+        "Datum":"2023-07-28",
+        "Datum_text":"28 juli",
+        "Namnsdag":"Botvid, Seved"
+    },
+    {
+        "Datum":"2023-07-29",
+        "Datum_text":"29 juli",
+        "Namnsdag":"Olof, Olle"
+    },
+    {
+        "Datum":"2023-07-30",
+        "Datum_text":"30 juli",
+        "Namnsdag":"Algot"
+    },
+    {
+        "Datum":"2023-07-31",
+        "Datum_text":"31 juli",
+        "Namnsdag":"Helena, Elin"
+    },
+    {
+        "Datum":"2023-08-01",
+        "Datum_text":"1 augusti",
+        "Namnsdag":"Per"
+    },
+    {
+        "Datum":"2023-08-02",
+        "Datum_text":"2 augusti",
+        "Namnsdag":"Karin, Kajsa"
+    },
+    {
+        "Datum":"2023-08-03",
+        "Datum_text":"3 augusti",
+        "Namnsdag":"Tage"
+    },
+    {
+        "Datum":"2023-08-04",
+        "Datum_text":"4 augusti",
+        "Namnsdag":"Arne, Arnold"
+    },
+    {
+        "Datum":"2023-08-05",
+        "Datum_text":"5 augusti",
+        "Namnsdag":"Ulrik, Alrik"
+    },
+    {
+        "Datum":"2023-08-06",
+        "Datum_text":"6 augusti",
+        "Namnsdag":"Alfons, Inez"
+    },
+    {
+        "Datum":"2023-08-07",
+        "Datum_text":"7 augusti",
+        "Namnsdag":"Dennis, Denise"
+    },
+    {
+        "Datum":"2023-08-08",
+        "Datum_text":"8 augusti",
+        "Namnsdag":"Silvia, Sylvia"
+    },
+    {
+        "Datum":"2023-08-09",
+        "Datum_text":"9 augusti",
+        "Namnsdag":"Roland"
+    },
+    {
+        "Datum":"2023-08-10",
+        "Datum_text":"10 augusti",
+        "Namnsdag":"Lars"
+    },
+    {
+        "Datum":"2023-08-11",
+        "Datum_text":"11 augusti",
+        "Namnsdag":"Susanna"
+    },
+    {
+        "Datum":"2023-08-12",
+        "Datum_text":"12 augusti",
+        "Namnsdag":"Klara"
+    },
+    {
+        "Datum":"2023-08-13",
+        "Datum_text":"13 augusti",
+        "Namnsdag":"Kaj"
+    },
+    {
+        "Datum":"2023-08-14",
+        "Datum_text":"14 augusti",
+        "Namnsdag":"Uno"
+    },
+    {
+        "Datum":"2023-08-15",
+        "Datum_text":"15 augusti",
+        "Namnsdag":"Stella, Estelle"
+    },
+    {
+        "Datum":"2023-08-16",
+        "Datum_text":"16 augusti",
+        "Namnsdag":"Brynolf"
+    },
+    {
+        "Datum":"2023-08-17",
+        "Datum_text":"17 augusti",
+        "Namnsdag":"Verner, Valter"
+    },
+    {
+        "Datum":"2023-08-18",
+        "Datum_text":"18 augusti",
+        "Namnsdag":"Ellen, Lena"
+    },
+    {
+        "Datum":"2023-08-19",
+        "Datum_text":"19 augusti",
+        "Namnsdag":"Magnus, Måns"
+    },
+    {
+        "Datum":"2023-08-20",
+        "Datum_text":"20 augusti",
+        "Namnsdag":"Bernhard, Bernt"
+    },
+    {
+        "Datum":"2023-08-21",
+        "Datum_text":"21 augusti",
+        "Namnsdag":"Jon, Jonna"
+    },
+    {
+        "Datum":"2023-08-22",
+        "Datum_text":"22 augusti",
+        "Namnsdag":"Henrietta, Henrika"
+    },
+    {
+        "Datum":"2023-08-23",
+        "Datum_text":"23 augusti",
+        "Namnsdag":"Signe, Signhild"
+    },
+    {
+        "Datum":"2023-08-24",
+        "Datum_text":"24 augusti",
+        "Namnsdag":"Bartolomeus"
+    },
+    {
+        "Datum":"2023-08-25",
+        "Datum_text":"25 augusti",
+        "Namnsdag":"Lovisa, Louise"
+    },
+    {
+        "Datum":"2023-08-26",
+        "Datum_text":"26 augusti",
+        "Namnsdag":"Östen"
+    },
+    {
+        "Datum":"2023-08-27",
+        "Datum_text":"27 augusti",
+        "Namnsdag":"Rolf, Raoul"
+    },
+    {
+        "Datum":"2023-08-28",
+        "Datum_text":"28 augusti",
+        "Namnsdag":"Fatima, Leila"
+    },
+    {
+        "Datum":"2023-08-29",
+        "Datum_text":"29 augusti",
+        "Namnsdag":"Hans, Hampus"
+    },
+    {
+        "Datum":"2023-08-30",
+        "Datum_text":"30 augusti",
+        "Namnsdag":"Albert, Albertina"
+    },
+    {
+        "Datum":"2023-08-31",
+        "Datum_text":"31 augusti",
+        "Namnsdag":"Arvid, Vidar"
+    },
+    {
+        "Datum":"2023-09-01",
+        "Datum_text":"1 september",
+        "Namnsdag":"Samuel, Sam"
+    },
+    {
+        "Datum":"2023-09-02",
+        "Datum_text":"2 september",
+        "Namnsdag":"Justus, Justina"
+    },
+    {
+        "Datum":"2023-09-03",
+        "Datum_text":"3 september",
+        "Namnsdag":"Alfhild, Alva"
+    },
+    {
+        "Datum":"2023-09-04",
+        "Datum_text":"4 september",
+        "Namnsdag":"Gisela"
+    },
+    {
+        "Datum":"2023-09-05",
+        "Datum_text":"5 september",
+        "Namnsdag":"Adela, Heidi"
+    },
+    {
+        "Datum":"2023-09-06",
+        "Datum_text":"6 september",
+        "Namnsdag":"Lilian, Lilly"
+    },
+    {
+        "Datum":"2023-09-07",
+        "Datum_text":"7 september",
+        "Namnsdag":"Kevin, Roy"
+    },
+    {
+        "Datum":"2023-09-08",
+        "Datum_text":"8 september",
+        "Namnsdag":"Alma, Hulda"
+    },
+    {
+        "Datum":"2023-09-09",
+        "Datum_text":"9 september",
+        "Namnsdag":"Anita, Annette"
+    },
+    {
+        "Datum":"2023-09-10",
+        "Datum_text":"10 september",
+        "Namnsdag":"Tord, Turid"
+    },
+    {
+        "Datum":"2023-09-11",
+        "Datum_text":"11 september",
+        "Namnsdag":"Dagny, Helny"
+    },
+    {
+        "Datum":"2023-09-12",
+        "Datum_text":"12 september",
+        "Namnsdag":"Åsa, Åslög"
+    },
+    {
+        "Datum":"2023-09-13",
+        "Datum_text":"13 september",
+        "Namnsdag":"Sture"
+    },
+    {
+        "Datum":"2023-09-14",
+        "Datum_text":"14 september",
+        "Namnsdag":"Ida, Ronja"
+    },
+    {
+        "Datum":"2023-09-15",
+        "Datum_text":"15 september",
+        "Namnsdag":"Sigrid, Siri"
+    },
+    {
+        "Datum":"2023-09-16",
+        "Datum_text":"16 september",
+        "Namnsdag":"Dag, Daga"
+    },
+    {
+        "Datum":"2023-09-17",
+        "Datum_text":"17 september",
+        "Namnsdag":"Hildegard, Magnhild"
+    },
+    {
+        "Datum":"2023-09-18",
+        "Datum_text":"18 september",
+        "Namnsdag":"Orvar"
+    },
+    {
+        "Datum":"2023-09-19",
+        "Datum_text":"19 september",
+        "Namnsdag":"Fredrika"
+    },
+    {
+        "Datum":"2023-09-20",
+        "Datum_text":"20 september",
+        "Namnsdag":"Elise, Lisa"
+    },
+    {
+        "Datum":"2023-09-21",
+        "Datum_text":"21 september",
+        "Namnsdag":"Matteus"
+    },
+    {
+        "Datum":"2023-09-22",
+        "Datum_text":"22 september",
+        "Namnsdag":"Maurits, Moritz"
+    },
+    {
+        "Datum":"2023-09-23",
+        "Datum_text":"23 september",
+        "Namnsdag":"Tekla, Tea"
+    },
+    {
+        "Datum":"2023-09-24",
+        "Datum_text":"24 september",
+        "Namnsdag":"Gerhard, Gert"
+    },
+    {
+        "Datum":"2023-09-25",
+        "Datum_text":"25 september",
+        "Namnsdag":"Tryggve"
+    },
+    {
+        "Datum":"2023-09-26",
+        "Datum_text":"26 september",
+        "Namnsdag":"Enar, Einar"
+    },
+    {
+        "Datum":"2023-09-27",
+        "Datum_text":"27 september",
+        "Namnsdag":"Dagmar, Rigmor"
+    },
+    {
+        "Datum":"2023-09-28",
+        "Datum_text":"28 september",
+        "Namnsdag":"Lennart, Leonard"
+    },
+    {
+        "Datum":"2023-09-29",
+        "Datum_text":"29 september",
+        "Namnsdag":"Mikael, Mikaela"
+    },
+    {
+        "Datum":"2023-09-30",
+        "Datum_text":"30 september",
+        "Namnsdag":"Helge"
+    },
+    {
+        "Datum":"2023-10-01",
+        "Datum_text":"1 oktober",
+        "Namnsdag":"Ragnar, Ragna"
+    },
+    {
+        "Datum":"2023-10-02",
+        "Datum_text":"2 oktober",
+        "Namnsdag":"Ludvig, Love"
+    },
+    {
+        "Datum":"2023-10-03",
+        "Datum_text":"3 oktober",
+        "Namnsdag":"Evald, Osvald"
+    },
+    {
+        "Datum":"2023-10-04",
+        "Datum_text":"4 oktober",
+        "Namnsdag":"Frans, Frank"
+    },
+    {
+        "Datum":"2023-10-05",
+        "Datum_text":"5 oktober",
+        "Namnsdag":"Bror"
+    },
+    {
+        "Datum":"2023-10-06",
+        "Datum_text":"6 oktober",
+        "Namnsdag":"Jenny, Jennifer"
+    },
+    {
+        "Datum":"2023-10-07",
+        "Datum_text":"7 oktober",
+        "Namnsdag":"Birgitta, Britta"
+    },
+    {
+        "Datum":"2023-10-08",
+        "Datum_text":"8 oktober",
+        "Namnsdag":"Nils"
+    },
+    {
+        "Datum":"2023-10-09",
+        "Datum_text":"9 oktober",
+        "Namnsdag":"Ingrid, Inger"
+    },
+    {
+        "Datum":"2023-10-10",
+        "Datum_text":"10 oktober",
+        "Namnsdag":"Harry, Harriet"
+    },
+    {
+        "Datum":"2023-10-11",
+        "Datum_text":"11 oktober",
+        "Namnsdag":"Erling, Jarl"
+    },
+    {
+        "Datum":"2023-10-12",
+        "Datum_text":"12 oktober",
+        "Namnsdag":"Valfrid, Manfred"
+    },
+    {
+        "Datum":"2023-10-13",
+        "Datum_text":"13 oktober",
+        "Namnsdag":"Berit, Birgit"
+    },
+    {
+        "Datum":"2023-10-14",
+        "Datum_text":"14 oktober",
+        "Namnsdag":"Stellan"
+    },
+    {
+        "Datum":"2023-10-15",
+        "Datum_text":"15 oktober",
+        "Namnsdag":"Hedvig, Hillevi"
+    },
+    {
+        "Datum":"2023-10-16",
+        "Datum_text":"16 oktober",
+        "Namnsdag":"Finn"
+    },
+    {
+        "Datum":"2023-10-17",
+        "Datum_text":"17 oktober",
+        "Namnsdag":"Antonia, Toini"
+    },
+    {
+        "Datum":"2023-10-18",
+        "Datum_text":"18 oktober",
+        "Namnsdag":"Lukas"
+    },
+    {
+        "Datum":"2023-10-19",
+        "Datum_text":"19 oktober",
+        "Namnsdag":"Tore, Tor"
+    },
+    {
+        "Datum":"2023-10-20",
+        "Datum_text":"20 oktober",
+        "Namnsdag":"Sibylla"
+    },
+    {
+        "Datum":"2023-10-21",
+        "Datum_text":"21 oktober",
+        "Namnsdag":"Ursula, Yrsa"
+    },
+    {
+        "Datum":"2023-10-22",
+        "Datum_text":"22 oktober",
+        "Namnsdag":"Marika, Marita"
+    },
+    {
+        "Datum":"2023-10-23",
+        "Datum_text":"23 oktober",
+        "Namnsdag":"Severin, Sören"
+    },
+    {
+        "Datum":"2023-10-24",
+        "Datum_text":"24 oktober",
+        "Namnsdag":"Evert, Eilert"
+    },
+    {
+        "Datum":"2023-10-25",
+        "Datum_text":"25 oktober",
+        "Namnsdag":"Inga, Ingalill"
+    },
+    {
+        "Datum":"2023-10-26",
+        "Datum_text":"26 oktober",
+        "Namnsdag":"Amanda, Rasmus"
+    },
+    {
+        "Datum":"2023-10-27",
+        "Datum_text":"27 oktober",
+        "Namnsdag":"Sabina"
+    },
+    {
+        "Datum":"2023-10-28",
+        "Datum_text":"28 oktober",
+        "Namnsdag":"Simon, Simone"
+    },
+    {
+        "Datum":"2023-10-29",
+        "Datum_text":"29 oktober",
+        "Namnsdag":"Viola"
+    },
+    {
+        "Datum":"2023-10-30",
+        "Datum_text":"30 oktober",
+        "Namnsdag":"Elsa, Isabella"
+    },
+    {
+        "Datum":"2023-10-31",
+        "Datum_text":"31 oktober",
+        "Namnsdag":"Edit, Edgar"
+    },
+    {
+        "Datum":"2023-11-01",
+        "Datum_text":"1 november",
+        "Namnsdag":"(ingen namnsdag) Allhelgonadagen"
+    },
+    {
+        "Datum":"2023-11-02",
+        "Datum_text":"2 november",
+        "Namnsdag":"Tobias, Tim"
+    },
+    {
+        "Datum":"2023-11-03",
+        "Datum_text":"3 november",
+        "Namnsdag":"Hubert, Hugo"
+    },
+    {
+        "Datum":"2023-11-04",
+        "Datum_text":"4 november",
+        "Namnsdag":"Sverker"
+    },
+    {
+        "Datum":"2023-11-05",
+        "Datum_text":"5 november",
+        "Namnsdag":"Eugen, Eugenia"
+    },
+    {
+        "Datum":"2023-11-06",
+        "Datum_text":"6 november",
+        "Namnsdag":"Gustav Adolf"
+    },
+    {
+        "Datum":"2023-11-07",
+        "Datum_text":"7 november",
+        "Namnsdag":"Ingegerd, Ingela"
+    },
+    {
+        "Datum":"2023-11-08",
+        "Datum_text":"8 november",
+        "Namnsdag":"Vendela"
+    },
+    {
+        "Datum":"2023-11-09",
+        "Datum_text":"9 november",
+        "Namnsdag":"Teodor, Teodora"
+    },
+    {
+        "Datum":"2023-11-10",
+        "Datum_text":"10 november",
+        "Namnsdag":"Martin, Martina"
+    },
+    {
+        "Datum":"2023-11-11",
+        "Datum_text":"11 november",
+        "Namnsdag":"Mårten"
+    },
+    {
+        "Datum":"2023-11-12",
+        "Datum_text":"12 november",
+        "Namnsdag":"Konrad, Kurt"
+    },
+    {
+        "Datum":"2023-11-13",
+        "Datum_text":"13 november",
+        "Namnsdag":"Kristian, Krister"
+    },
+    {
+        "Datum":"2023-11-14",
+        "Datum_text":"14 november",
+        "Namnsdag":"Emil, Emilia"
+    },
+    {
+        "Datum":"2023-11-15",
+        "Datum_text":"15 november",
+        "Namnsdag":"Leopold"
+    },
+    {
+        "Datum":"2023-11-16",
+        "Datum_text":"16 november",
+        "Namnsdag":"Vibeke, Viveka"
+    },
+    {
+        "Datum":"2023-11-17",
+        "Datum_text":"17 november",
+        "Namnsdag":"Naemi, Naima"
+    },
+    {
+        "Datum":"2023-11-18",
+        "Datum_text":"18 november",
+        "Namnsdag":"Lillemor, Moa"
+    },
+    {
+        "Datum":"2023-11-19",
+        "Datum_text":"19 november",
+        "Namnsdag":"Elisabet, Lisbet"
+    },
+    {
+        "Datum":"2023-11-20",
+        "Datum_text":"20 november",
+        "Namnsdag":"Pontus, Marina"
+    },
+    {
+        "Datum":"2023-11-21",
+        "Datum_text":"21 november",
+        "Namnsdag":"Helga, Olga"
+    },
+    {
+        "Datum":"2023-11-22",
+        "Datum_text":"22 november",
+        "Namnsdag":"Cecilia, Sissela"
+    },
+    {
+        "Datum":"2023-11-23",
+        "Datum_text":"23 november",
+        "Namnsdag":"Klemens"
+    },
+    {
+        "Datum":"2023-11-24",
+        "Datum_text":"24 november",
+        "Namnsdag":"Gudrun, Rune"
+    },
+    {
+        "Datum":"2023-11-25",
+        "Datum_text":"25 november",
+        "Namnsdag":"Katarina, Katja"
+    },
+    {
+        "Datum":"2023-11-26",
+        "Datum_text":"26 november",
+        "Namnsdag":"Linus"
+    },
+    {
+        "Datum":"2023-11-27",
+        "Datum_text":"27 november",
+        "Namnsdag":"Astrid, Asta"
+    },
+    {
+        "Datum":"2023-11-28",
+        "Datum_text":"28 november",
+        "Namnsdag":"Malte"
+    },
+    {
+        "Datum":"2023-11-29",
+        "Datum_text":"29 november",
+        "Namnsdag":"Sune"
+    },
+    {
+        "Datum":"2023-11-30",
+        "Datum_text":"30 november",
+        "Namnsdag":"Andreas, Anders"
+    },
+    {
+        "Datum":"2023-12-01",
+        "Datum_text":"1 december",
+        "Namnsdag":"Oskar, Ossian"
+    },
+    {
+        "Datum":"2023-12-02",
+        "Datum_text":"2 december",
+        "Namnsdag":"Beata, Beatrice"
+    },
+    {
+        "Datum":"2023-12-03",
+        "Datum_text":"3 december",
+        "Namnsdag":"Lydia, Cornelia"
+    },
+    {
+        "Datum":"2023-12-04",
+        "Datum_text":"4 december",
+        "Namnsdag":"Barbara, Barbro"
+    },
+    {
+        "Datum":"2023-12-05",
+        "Datum_text":"5 december",
+        "Namnsdag":"Sven"
+    },
+    {
+        "Datum":"2023-12-06",
+        "Datum_text":"6 december",
+        "Namnsdag":"Nikolaus, Niklas"
+    },
+    {
+        "Datum":"2023-12-07",
+        "Datum_text":"7 december",
+        "Namnsdag":"Angela, Angelika"
+    },
+    {
+        "Datum":"2023-12-08",
+        "Datum_text":"8 december",
+        "Namnsdag":"Virginia"
+    },
+    {
+        "Datum":"2023-12-09",
+        "Datum_text":"9 december",
+        "Namnsdag":"Anna"
+    },
+    {
+        "Datum":"2023-12-10",
+        "Datum_text":"10 december",
+        "Namnsdag":"Malin, Malena"
+    },
+    {
+        "Datum":"2023-12-11",
+        "Datum_text":"11 december",
+        "Namnsdag":"Daniel, Daniela"
+    },
+    {
+        "Datum":"2023-12-12",
+        "Datum_text":"12 december",
+        "Namnsdag":"Alexander, Alexis"
+    },
+    {
+        "Datum":"2023-12-13",
+        "Datum_text":"13 december",
+        "Namnsdag":"Lucia"
+    },
+    {
+        "Datum":"2023-12-14",
+        "Datum_text":"14 december",
+        "Namnsdag":"Sten, Sixten"
+    },
+    {
+        "Datum":"2023-12-15",
+        "Datum_text":"15 december",
+        "Namnsdag":"Gottfrid"
+    },
+    {
+        "Datum":"2023-12-16",
+        "Datum_text":"16 december",
+        "Namnsdag":"Assar"
+    },
+    {
+        "Datum":"2023-12-17",
+        "Datum_text":"17 december",
+        "Namnsdag":"Stig"
+    },
+    {
+        "Datum":"2023-12-18",
+        "Datum_text":"18 december",
+        "Namnsdag":"Abraham"
+    },
+    {
+        "Datum":"2023-12-19",
+        "Datum_text":"19 december",
+        "Namnsdag":"Isak"
+    },
+    {
+        "Datum":"2023-12-20",
+        "Datum_text":"20 december",
+        "Namnsdag":"Israel, Moses"
+    },
+    {
+        "Datum":"2023-12-21",
+        "Datum_text":"21 december",
+        "Namnsdag":"Tomas"
+    },
+    {
+        "Datum":"2023-12-22",
+        "Datum_text":"22 december",
+        "Namnsdag":"Natanael, Jonatan"
+    },
+    {
+        "Datum":"2023-12-23",
+        "Datum_text":"23 december",
+        "Namnsdag":"Adam"
+    },
+    {
+        "Datum":"2023-12-24",
+        "Datum_text":"24 december",
+        "Namnsdag":"Eva, (Julafton)"
+    },
+    {
+        "Datum":"2023-12-25",
+        "Datum_text":"25 december",
+        "Namnsdag":"(ingen namnsdag) Juldagen"
+    },
+    {
+        "Datum":"2023-12-26",
+        "Datum_text":"26 december",
+        "Namnsdag":"Stefan, Staffan, (Annandag jul)"
+    },
+    {
+        "Datum":"2023-12-27",
+        "Datum_text":"27 december",
+        "Namnsdag":"Johannes, Johan"
+    },
+    {
+        "Datum":"2023-12-28",
+        "Datum_text":"28 december",
+        "Namnsdag":"Benjamin, (Värnlösa barns dag)"
+    },
+    {
+        "Datum":"2023-12-29",
+        "Datum_text":"29 december",
+        "Namnsdag":"Natalia, Natalie"
+    },
+    {
+        "Datum":"2023-12-30",
+        "Datum_text":"30 december",
+        "Namnsdag":"Abel, Set"
+    },
+    {
+        "Datum":"2023-12-31",
+        "Datum_text":"31 december",
+        "Namnsdag":"Sylvester"
+    }
+]
